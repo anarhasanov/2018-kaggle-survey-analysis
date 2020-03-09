@@ -11,6 +11,7 @@ Major research question is how different the switchers are from others. The pape
 1.	To establish a view of what is going on in the Data Scientist field.
 2.	In particular, compare respondents coming from Business discipline with others 
 
+This analysis was also made over Kaggle kernel. See link here [](https://www.kaggle.com/hasanlianar/switchers-from-business-discipline-vs-others)
 
 ### About Survey  
 
