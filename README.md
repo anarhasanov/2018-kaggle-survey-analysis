@@ -1,5 +1,5 @@
 
-![header](/header.jpg)
+![header](/http://https://i.imgur.com/zhJUcXZ.png?1)
 
 # 2018 Kaggle Machine Learning & Data Science Survey Analysis
 
