@@ -1,4 +1,4 @@
-![header](../master/header.jpg)
+![header](../master/header.png)
 
 # 2018 Kaggle Machine Learning & Data Science Survey Analysis
 
