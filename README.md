@@ -4,9 +4,9 @@
 
 Starting from 2017 Kaggle conducts global Data Science and Machine Learning survey among data professions, with an intention to establish a comprehensive view of the state of the field.
 
-By taking advantage of Kaggle survey data, this notebook aims at concentrating on a particular subgroup of respondents – professionals with undergraduate major in business discipline, who changed or in the proses of changing their career into Data Science/Data Analytics and comparing them with professionals coming from other backgrounds. In context of this paper respondents coming from Business background are simply called “switchers” and the rest “others”. 
+By taking advantage of Kaggle survey data, this analysis aims at concentrating on a particular subgroup of respondents – professionals with undergraduate major in business discipline, who changed or in the proses of changing their career into Data Science/Data Analytics and comparing them with professionals coming from other backgrounds. In context of this analysis respondents coming from Business background are simply called “switchers” and the rest “others”. 
 
-Major research question is how different the switchers are from others. The paper has the following objectives for analysis of survey data:
+Major research question is how different the switchers are from others. There are the following objectives:
 1.	To establish a view of what is going on in the Data Scientist field.
 2.	In particular, compare respondents coming from Business discipline with others 
 
@@ -14,7 +14,7 @@ This analysis was also made over Kaggle kernel. See link [here](https://www.kagg
 
 ### About Survey  
 
-Kaggle launched 2018 survey in October for one week and dataset was made public in November. Consequently, it is a recent survey and its data have been available for short period of time when this paper was written. According to Kaggle this industry-wide survey presents a comprehensive view of the state of data science and machine learning. Survey received 23859 respondents (49% increase over 2017) from 147 countries. Country receiving less than 50 responses was grouped under “Other”. Survey touched such areas as education, learning sources, career, skills, technologies, programming languages, data types, as well as, state of Machine Learning. Respondents were primarily found from Kaggle channels, emails, forums and social media. 
+Kaggle launched 2018 survey in October for one week and dataset was made public in November. Consequently, it is a recent survey and its data have been available for short period of time. According to Kaggle this industry-wide survey presents a comprehensive view of the state of data science and machine learning. Survey received 23859 respondents (49% increase over 2017) from 147 countries. Country receiving less than 50 responses was grouped under “Other”. Survey touched such areas as education, learning sources, career, skills, technologies, programming languages, data types, as well as, state of Machine Learning. Respondents were primarily found from Kaggle channels, emails, forums and social media. 
 
 There were two types of questions - multiple choice and free form (where people could submit their desired answer). To protect the respondent privacy, the answers to multiple choice questions were separated into a separate data file from the open-ended responses.
 
@@ -38,7 +38,7 @@ The analysis performed has been very insightful and helped demonstrate current s
 
 # Future Work
 
-This paper has not covered all questions asked in the survey. Respondents were also asked about such areas as:
+This analysis has not covered all questions asked in the survey. Respondents were also asked about such areas as:
 -	Fairness and bias in ML algorithms, 
 -	ML model interpretation, 
 -	Cloud computing
@@ -47,7 +47,7 @@ This paper has not covered all questions asked in the survey. Respondents were a
 -	Public datasets
 -	Work reuse/reproduction
 
-Future analysis can incorporate above-mentioned question responses to establish a more comprehensive view of the status of Data Science field and have even better observation on differences between respondents coming from business discipline against others.
+Future analysis can incorporate above-mentioned question responses to establish a broader view of the status of Data Science field and have a better observation on differences between respondents coming from business discipline against others.
 
 Analysis could further be enriched by using 2017 survey data (or additional external datasets) to find out and explain trends in specific areas. 
 
